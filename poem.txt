@@ -5,6 +5,8 @@ green
 purple
 yellow
 brown
+black
+white
 
 animals
 cats
