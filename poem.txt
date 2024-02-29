@@ -14,3 +14,9 @@ dogs
 lion
 tiger
 
+
+vehicles
+cars
+bike
+planes
+
