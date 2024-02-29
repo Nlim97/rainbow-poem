@@ -5,3 +5,10 @@ green
 purple
 yellow
 brown
+
+animals
+cats
+dogs
+lion
+tiger
+
